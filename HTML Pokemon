@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <h1>Rowlet Pokemon Card</h1>
+  
+  <div class="rowlet-card">
+    <div class="rowlet-card-image">
+      <img src="rowlettpic.png" alt="Rowlet">
+      <div class = "emblem"><img src="emblems.png" alt="emblem"></div>
+    </div>
+<div class = "rowlet-text"><h1>Rowlet         50HP</h1></div>
+    <
+    <!-- <div class = weakness><img src="weakness.png" alt="weakness"></div> -->
+  </div>
+<div class = "rowlet-text-description"><p1>Rowlet is semi-noncuturnal and can attack at blinding speeds.Rowlet can fly very silently through the night.</p1></div>
+<div class = "rowlet-attack-desription">Leafage           20</div>
+
+  
+<div class = "rowlet-attack-desription2">Roost           +10</div>
+
+</body>
+
+
+
+</html>
